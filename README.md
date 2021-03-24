@@ -8,5 +8,5 @@
 6. Use endpoint to make prediction on test set 
 7. Show results in confusion matrix format
 
-Note that with the now endpoint created, you can use it in AWS Lambda and create an API
+Note that with the now endpoint created, you can use it in AWS Lambda and create an API 
 https://aws.amazon.com/blogs/machine-learning/call-an-amazon-sagemaker-model-endpoint-using-amazon-api-gateway-and-aws-lambda/
